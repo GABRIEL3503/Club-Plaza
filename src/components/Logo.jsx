@@ -15,7 +15,7 @@ function Logo({ light = false }) {
           light ? 'text-white' : 'text-pine-900'
         }`}
       >
-        rumbo
+        Club Plaza · Eventos Deportivos
       </span>
     </a>
   )

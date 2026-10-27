@@ -32,7 +32,7 @@ function Footer() {
 
       <div className="border-t border-white/10">
         <p className="mx-auto max-w-7xl px-4 py-5 text-xs text-pine-200/70 sm:px-6 lg:px-8">
-          © 2026 Rumbo · Programación Web Avanzada
+          © 2026 Club Plaza · Eventos Deportivos · Programación Web Avanzada
         </p>
       </div>
     </footer>
